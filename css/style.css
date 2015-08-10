@@ -19,3 +19,40 @@
   background: rgba(0,0,0,.45);
   position: relative;
 }
+
+/*Shop Styles*/
+
+.item {
+  padding: 10px;
+  text-align: center;
+}
+
+.item-header {
+  padding-bottom: 25px;
+}
+
+.item-place {
+  font-weight: bold;
+}
+
+.item-description {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 1.25em;
+  color: #444;
+}
+
+.item-picture {
+  max-height: 333px;
+}
+
+.item-picture img {
+  max-height: 100%;
+  margin: 0 auto;
+}
+
+.store-section-divider {
+    width: 75%;
+    margin-top: 25px;
+    padding-bottom: 55px;
+}
