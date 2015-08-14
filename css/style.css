@@ -98,3 +98,8 @@
 .item a {
   color: #333;
 }
+
+.intro-header {
+  font-size: 1.3em;
+  letter-spacing: 2px;
+}
